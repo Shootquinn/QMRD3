@@ -12,8 +12,10 @@ The Sawppy is a truly amazing and elegant design at an affordable price.
 
 Unfortunately, this rover is not cheap. The wheels are around $100 each to print. 
 
-Stay tuned as the rest of the parts get updated and added to this repository. When the CAD model is cleaned up enough I'll post
-a Fusion 360 Archive so others can follow my work. 
+Stay tuned as the rest of the parts get updated and added to this repository. A "junk-draft" Fusion 360 archive is provided.
+The front wheel, steering knuckle, bearings, axle, etc are the only things that are completed. The steering knuckle will work at 
+all four corners. The non-steering knuckle has not been updated. None of the extrusion connections have been finished since scaling
+up from Sawppy. 
 
 You can find more about Roger's original Sawppy rover at https://hackaday.io/project/158208-sawppy-the-rover 
 and https://github.com/Roger-random/Sawppy_Rover

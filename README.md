@@ -1,6 +1,10 @@
 # QMRD3
 Qualification Model Rover Demonstrator for Deep Drilling
 
+Thanks to 
+Roger-random, who
+created the amazing Sawppy rover on which this design is based.
+
 Note: This rover uses the following bearing in 28+ locations: https://www.thingiverse.com/thing:3116838
       The bearing is a remix and therefore is released under a separate license and is maintained on Thingiverse. 
       Thanks to Zh4x0r for creating the parametric model with an integral lip, and thanks to Emmett for inventing 

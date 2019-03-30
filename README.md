@@ -3,7 +3,7 @@ Qualification Model Rover Demonstrator for Deep Drilling
 
 Thanks to Roger-random, who created the amazing Sawppy rover on which this design is based.
 
-Please view my blog post to see images of this project. Two Fusion 360 screenshots are provided in the repository.
+Please view my blog post to see images of this project. https://www.quinnmorley.com/2019/02/qmrd3-rover-testbed.html
       
 This project is intended to be a testbed for future work on developing Mars ice drilling technologies. It would not be possible 
 without the pioneering work by Github user Roger-random, who created the amazing Sawppy rover on which this rover is based. 

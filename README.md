@@ -6,7 +6,9 @@ Roger-random, who
 created the amazing Sawppy rover on which this design is based.
 
 Note: This rover uses the following bearing in 28+ locations: https://www.thingiverse.com/thing:3116838
-      The bearing is a remix and therefore is released under a separate license and is maintained on Thingiverse. 
+      The bearing is a remix and therefore is released under a separate license and is maintained on Thingiverse. Two sizes are provided,
+      88mm fits nicely when the bearing housings and printed with the diameter parallel to the xy plane, and the 87mm version fits nicely
+      when the bearing housings are printed with the diameter perpendicular to or at odd angles to the xy plane. 
       Thanks to Zh4x0r for creating the parametric model with an integral lip, and thanks to Emmett for inventing 
       the gear bearing and completely changing the game.
       
@@ -16,10 +18,14 @@ The Sawppy is a truly amazing and elegant design at an affordable price.
 
 Unfortunately, this rover is not cheap. The wheels are around $100 each to print. 
 
-Stay tuned as the rest of the parts get updated and added to this repository. A "junk-draft" Fusion 360 archive is provided.
-The front wheel, steering knuckle, bearings, axle, etc are the only things that are completed. The steering knuckle will work at 
-all four corners. The non-steering knuckle has not been updated. None of the extrusion connections have been finished since scaling
-up from Sawppy. 
+The Rover Chassis has reached Version 1.02 and all components have been prepared for the larger size. The drive motors are from makermotor
+and are available at: https://makermotor.com/pn00113-6-6-rpm-gear-motor-12vdc-high-torque/ while the steering motors are from Amazon seller
+STEPPERONLINE and can be found by searching for the following listing: STEPPERONLINE 47:1 Planetary Gearbox Nema 23 Stepper Motor 2.8A. 
+The mounting bracket for the stepper motor is required and will match up to the bolt pattern on the steering corners. 
+
+The electronics, etc. have not been designed yet. It would be nice to adapt the Ardupilot Rover but it may be difficult to run the steppers
+in this configuration. One idea may be to have steering changes executed as macro code by the autopilot. As in, the rover moves to a way 
+point, and when it is there it executes the macro at that way point to do a steering maneuver. 
 
 You can find more about Roger's original Sawppy rover at https://hackaday.io/project/158208-sawppy-the-rover 
 and https://github.com/Roger-random/Sawppy_Rover

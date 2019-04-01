@@ -11,10 +11,11 @@ The Sawppy is a truly amazing and elegant design at an affordable price.
 
 Unfortunately, this rover is not cheap. The wheels are around $100 each to print. 
 
-The Rover Chassis has reached Version 1.02 and all components have been prepared for the larger size. The drive motors are from makermotor
-and are available at: https://makermotor.com/pn00113-6-6-rpm-gear-motor-12vdc-high-torque/ while the steering motors are from Amazon seller
-STEPPERONLINE and can be found by searching for the following listing: STEPPERONLINE 47:1 Planetary Gearbox Nema 23 Stepper Motor 2.8A. 
-The mounting bracket for the stepper motor is required and will match up to the bolt pattern on the steering corners. 
+The Rover Chassis has reached a release-ready state and all components have been prepared for the larger size. The drive motors are 
+from makermotor and are available at: https://makermotor.com/pn00113-6-6-rpm-gear-motor-12vdc-high-torque/ 
+while the steering motors are from Amazon seller STEPPERONLINE and can be found by searching for the following listing:
+STEPPERONLINE 47:1 Planetary Gearbox Nema 23 Stepper Motor 2.8A. The mounting bracket for the stepper motor is required and will match up
+to the bolt pattern on the steering corners. 
 
 The electronics, etc. have not been designed yet. It would be nice to adapt the Ardupilot Rover but it may be difficult to run the steppers
 in this configuration. One idea may be to have steering changes executed as macro code by the autopilot. As in, the rover moves to a way 

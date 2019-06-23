@@ -1,0 +1,70 @@
+QMRD3 BOM 6/24/19 v1.05
+
+Printed Parts:
+
+	Wheel, Axle, Couplers:
+		Wheel  			6
+		Axle 			14
+		Drive Coupler 		6
+		Steering Coupler 	4
+		Bearing 		30
+		Retainer Washer		4
+		Thrust Washer 		22
+
+	Left Rocker Bogie: 
+		Steering Front Corner	1
+		Steering Knuckle	2
+		Rocker			1
+		Steering Rear Corner	1
+		Fixed Knuckle		1
+		Bogie Rocker		1
+		Bogie Pivot		1
+	
+	Right Rocker Bogie:
+		Mirror all Left Rocker Bogie printed parts in your slicer.
+
+	Body:
+		Body Differential Bracket	1
+		Body Differential Bracket Opp	1
+		Body Suspension			2
+		Body Corner			4
+
+	Differential:
+		Differential Body		1
+		Differential Rocker-Link	1
+		Differential Rocker-Link Opp	1
+		Differential Swivel		1
+
+	Optional Printed Parts:
+		Axle Skinny (If, like me, you are over-extruding on wheel prints)
+		Bearing 87mm (same logic as 'Axle Skinny,' but has good fit more frequently)
+		Steering Lock-out Block (if using tank steering)
+		Hexagon Hub Adapter for Aluminum Axles - NOT DESIGNED YET AS OF v1.05.
+
+Extrusion - 30-6060 - (mm, inches, qty): 
+1540	60.63		4
+980	38.58		4
+952	37.48		1
+728	28.66		2
+644	25.35		2
+488	19.21		2
+468	18.43		2
+
+Aluminum Hexagon Bar - 5/8" / 16mm 6061-T6 Aluminum - (mm, inches, qty):
+640	25.20		2
+200	7.87		Optional Axle Stock
+
+Motors
+	Drive Motors:
+		Makermotor PN00113-6, 12v, 21 Nm	6
+	
+	Steering Motors:
+		NEMA 23 w/46.656:1, 24v, 40 Nm		4
+		(Get angle the bracket for it too)
+
+Screws and Inserts
+	M6 T-slot nuts, pick your flavor.
+	M6 Screws
+	M6 Heat-set inserts
+	M4 Screws
+	M4 Heat-set Inserts

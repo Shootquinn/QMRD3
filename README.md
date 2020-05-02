@@ -2,8 +2,6 @@
 Qualification Model Rover Demonstrator for Deep Drilling
 
 Thanks to Roger-random, who created the amazing Sawppy rover on which this design is based.
-
-Please view my blog post to see images of this project. https://www.quinnmorley.com/2019/02/qmrd3-rover-testbed.html
       
 This project is intended to be a testbed for future work on developing Mars ice drilling technologies. It would not be possible 
 without the pioneering work by Github user Roger-random, who created the amazing Sawppy rover on which this rover is based. 
@@ -23,8 +21,6 @@ point, and when it is there it executes the macro at that way point to do a stee
 
 You can find more about Roger's original Sawppy rover at https://hackaday.io/project/158208-sawppy-the-rover 
 and https://github.com/Roger-random/Sawppy_Rover
-
-You can find more about the Mars Drilling Project at http://www.quinnmorley.com/2018/09/the-mars-drilling-project.html
 
 Note: This rover uses the following bearing in 28+ locations: https://www.thingiverse.com/thing:3116838
       The bearing is a remix and therefore is released under a separate license and is maintained on Thingiverse. Two sizes are provided,
